@@ -1,0 +1,8 @@
+
+Olá, Professor!
+
+   Esse trabalho consiste na inserção de dados na página "login" 
+   que, são armazenados na base de dados "info" e, logo em seguida,
+   mostrados na página "home".
+   Porém, tive certa dificuldade na exibição das informações.
+   
